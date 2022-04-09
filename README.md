@@ -1,2 +1,2 @@
-# FPGA Designs
+# FPGA Design
 FPGA design materials
